@@ -119,7 +119,7 @@
             </div>
             <div class="col s12 m7">
                 <!-- Here will be OGV embed view of some model -->
-                <iframe src="" frameborder="0" allowfullscreen>123</iframe>
+                <iframe src="" frameborder="0" allowfullscreen></iframe>
             </div>
         </div>
     </div>
