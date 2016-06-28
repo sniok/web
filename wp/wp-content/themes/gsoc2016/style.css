@@ -304,6 +304,28 @@ nav a.button-collapse:hover
     display: none;
 }
 
+/* OGV Section */
+.ogv-section
+{
+    border-top: 10px solid rgba(255,255,255,0.1);
+    background-color: #252525;
+}
+.ogv-section .row
+{
+    margin-bottom: 0;
+    padding: 40px 0 40px 0;
+}
+.ogv-section a
+{
+    font-weight: 700;
+}
+.ogv-section iframe
+{
+    width: 100%;
+    height: 400px;
+    background-color: #353535;
+}
+
 /* Footer */
 footer.page-footer
 {

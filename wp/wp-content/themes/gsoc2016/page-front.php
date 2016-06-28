@@ -106,6 +106,25 @@
     </div>
 </div>
 
+<!-- OGV Section -->
+<div class="ogv-section">
+    <div class="container">
+        <div class="row">
+            <div class="col s12 m5">
+                <h4 class="white-text">OGV</h4>
+                <p class="grey-text text-lighten-4">Online Geometry Viewer is an online web application, where users can upload, view and share 3D CAD models. They can also host these models online, can like (love) or comment on them. In a nutshell it can be looked at as a social blogging
+                    platform for 3D models.</p>
+                <a href="#" class="btn-flat white-text waves-effect waves-light">SITE</a>
+                <a href="https://github.com/BRL-CAD/OGV-meteor" class="btn-flat white-text waves-effect waves-light">SOURCE CODE</a>
+            </div>
+            <div class="col s12 m7">
+                <!-- Here will be OGV embed view of some model -->
+                <iframe src="" frameborder="0" allowfullscreen>123</iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
 <!-- Section 4 | HIGHLIGHTS -->
 <div class="section4">
     <div class="container">
